@@ -7,7 +7,7 @@ local Workspace = game:GetService("Workspace")
 local Window = Rayfield:CreateWindow({
     Name = "Spectate",
     LoadingTitle = "Spectate UI",
-    LoadingSubtitle = "by You",
+    LoadingSubtitle = "Loading Rayfield UI",
     ConfigurationSaving = {
         Enabled = false
     },
